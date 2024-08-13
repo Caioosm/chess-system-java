@@ -1,7 +1,8 @@
 package application;
 
-public class App {
+public class Program {
     public static void main(String[] args) throws Exception {
+
         
     }
 }
